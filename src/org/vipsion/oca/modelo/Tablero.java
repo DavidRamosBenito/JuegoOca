@@ -41,8 +41,8 @@ public class Tablero {
         casillas.set(49, new Oca(50, 4));
         casillas.set(54, new OcaFin(59, 4));
         casillas.set(62, new Fin(63));
-        casillas.set(25, new Dado2(26));
-        casillas.set(52, new Dado2(53));
+        casillas.set(25, new CasillaDado(26));
+        casillas.set(52, new CasillaDado(53));
     }
 
     /**
