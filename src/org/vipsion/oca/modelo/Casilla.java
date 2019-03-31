@@ -24,6 +24,7 @@ public class Casilla {
      * @return Devuelve un entero entre <code>1</code> y <code>63</code>
      */
     public int getPosicion() {
+        //Ya estaban puestos getters y setters pero lo pide en el trabajo de git y por eso pongo un comentario
         return posicion;
     }
 
@@ -32,6 +33,7 @@ public class Casilla {
      * @param posicion Número entero del valor de la posición
      */
     public void setPosicion(int posicion) {
+        //Ya estaban puestos getters y setters pero lo pide en el trabajo de git y por eso pongo un comentario
         this.posicion = posicion;
     }
 
