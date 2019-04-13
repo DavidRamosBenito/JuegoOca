@@ -38,7 +38,8 @@ public class Casilla {
     }
 
     /**
-     *<p>Cuando es invocado por la instancia ficha se le asigna la posición de la casilla</p> 
+     *<p>Cuando es invocado por la instancia ficha se le asigna la posición de la casilla</p>
+     * Modificación para el git.
      * @param ficha Representa la instancia ficha que se posa en esa casilla
      * @see Ficha#setPosicion(int) 
      */
